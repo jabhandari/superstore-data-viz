@@ -16,6 +16,8 @@ Install dependencies:
 
 ```bash
 pip install pandas matplotlib seaborn
+pip install -r requirements.txt
+
 ```
 
 ## Quickstart
